@@ -5,3 +5,5 @@ Additionally the player can also check the current rotation of free champions. I
 The application in the help section of the menu bar will contain instructions of what the user can do with the application and how.
 
 https://github.com/andreaskarantzas/LoLVision/blob/master/free_champions.png
+
+https://github.com/andreaskarantzas/LoLVision/blob/master/results_per_team.png
