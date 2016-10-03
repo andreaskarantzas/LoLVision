@@ -1,0 +1,2 @@
+# LoLVision
+Mac client application
